@@ -21,7 +21,7 @@ A simple desktop app built with **Python**, **Pillow**, and **CustomTkinter** th
 ### Option 1: Run from Source
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/webp-converter.git
+git clone https://github.com/Ace0731/Image_Converter.git
 cd webp-converter
 python -m pip install -r requirements.txt
 python webp_converter.py
