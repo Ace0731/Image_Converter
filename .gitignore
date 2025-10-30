@@ -1,4 +1,24 @@
+# PyInstaller build folders
 build/
 dist/
 *.spec
+
+# Python cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Executables
+*.exe
