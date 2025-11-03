@@ -1,2 +1,2 @@
-pillow
-customtkinter
+pillow==9.5.0
+customtkinter==5.2.1
